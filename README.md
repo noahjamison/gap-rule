@@ -17,9 +17,9 @@ I separated out two goals from the requirements:
 
 I created classes to model a campsite and a reservation so the JSON data could be stored and manipulated easily.
 
-Now that the data was transformed, I realized I would have to iterate over each campsites’ reservations and compare their dates to the dates in the search range. Working with two ranges of dates proved tricky until I realized that there would be no booking conflict if the start of the search range was after a reservation’s end date. Or inversely, if the end of the search range was before the start of the reservation. 
+Now that the data was transformed, I realized I would have to iterate over each campsite's reservations and compare their dates to the dates in the search range. Working with two ranges of dates proved tricky until I realized that there would be no booking conflict if the start of the search range was after a reservation’s end date. Or inversely, if the end of the search range was before the start of the reservation. Failing either of these conditions meant the campsite was not open for booking.
 
-To enforce the “gap rule”, I compared the start of the search range the end of a reservation. If the difference in days between these two dates was the same, then that meant the gap rule was violated. I applied the same (somewhat reversed) logic to check the end of the search range too.
+To enforce the “gap rule”, I compared the start of the search range to the end of a reservation. If the difference in days between these two dates was the same, then that meant the gap rule was violated. I applied the same (somewhat reversed) logic to check the end of the search range too.
 
 ## Assumptions + Considerations
 * I treated `test-case.json` as though it was data being returned from an API request.
@@ -29,5 +29,5 @@ To enforce the “gap rule”, I compared the start of the search range the end 
 * I followed Flutter’s style guide in that most code should be self-explanatory without needing additional comments. The UI code might look messy at first but that’s just Flutter!
 * I didn’t add any exception handling for booking requests. It could be an issue in a real world application if two users were to try to book the same “available” dates at once. My thoughts were that, ideally, solving this shouldn’t be up to the client.
 * `SearchResultsHelper` was designed to have an efficient runtime yet still be maintainable by other developers. Runtime could be improved but the code would be harder to read.
-* The added line in `test-case.json` just links to a campsite image.
-* Because the project was mall, I thought that a few unit tests would be sufficient.
+* The added lines in `test-case.json` just link to a campsite image for the UI.
+* Because the project was small, I thought that a few unit tests would be sufficient instead of full integrated testing.
