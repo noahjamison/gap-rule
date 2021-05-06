@@ -1,0 +1,9 @@
+{
+  "campsites": [
+    {"id": 1, "name": "Cozy Cabin", "image": "images/cozy-cabin.jpeg"}
+  ],
+  "reservations": [
+    {"campsiteId": 1, "startDate": "2018-06-01", "endDate": "2018-06-03"},
+    {"campsiteId": 1, "startDate": "2018-06-08", "endDate": "2018-06-10"}
+  ]
+}

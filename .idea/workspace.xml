@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="409d0ac6-b97d-42af-b3f0-4e984884f30f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1s63T8eH9VrgI5eryabh10UdMp8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/assets" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flutter Test.tests in gap_rule_tests">
+    <configuration name="JsonLoader fetches all campsites and reservations" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="JsonLoader fetches all campsites and reservations" />
+      <option name="testFile" value="$PROJECT_DIR$/test/widget_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SearchResultsHelper correctly maps each reservation to its campsite" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="SearchResultsHelper correctly maps each reservation to its campsite" />
+      <option name="testFile" value="$PROJECT_DIR$/test/widget_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests in gap_rule_tests" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true">
+      <option name="testFile" value="$PROJECT_DIR$/test/gap_rule_tests.dart" />
+      <option name="additionalArgs" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter Test.tests in gap_rule_tests" />
+        <item itemvalue="Flutter Test.JsonLoader fetches all campsites and reservations" />
+        <item itemvalue="Flutter Test.SearchResultsHelper correctly maps each reservation to its campsite" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="409d0ac6-b97d-42af-b3f0-4e984884f30f" name="Default Changelist" comment="" />
+      <created>1620179216146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620179216146</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="565" y="266" key="#tests_in_widget_test.dart" timestamp="1620327209303">
+      <screen x="0" y="25" width="1792" height="1002" />
+    </state>
+    <state x="565" y="266" key="#tests_in_widget_test.dart/0.25.1792.1002@0.25.1792.1002" timestamp="1620327209303" />
+    <state width="2966" height="721" key="GridCell.Tab.0.bottom" timestamp="1620343231601">
+      <screen x="686" y="-1692" width="3008" height="1692" />
+    </state>
+    <state width="1750" height="417" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1620342917143" />
+    <state width="1750" height="178" key="GridCell.Tab.0.bottom/0.25.1792.1002@0.25.1792.1002" timestamp="1620335539920" />
+    <state width="2966" height="489" key="GridCell.Tab.0.bottom/686.-1667.3008.1667/0.25.1792.1002@686.-1667.3008.1667" timestamp="1620228228688" />
+    <state width="2966" height="721" key="GridCell.Tab.0.bottom/686.-1692.3008.1692/0.0.1792.1120@686.-1692.3008.1692" timestamp="1620343231601" />
+    <state width="2966" height="542" key="GridCell.Tab.0.bottom/686.-1692.3008.1692/0.25.1792.1095@686.-1692.3008.1692" timestamp="1620318227979" />
+    <state width="2966" height="721" key="GridCell.Tab.0.center" timestamp="1620343231599">
+      <screen x="686" y="-1692" width="3008" height="1692" />
+    </state>
+    <state width="1750" height="417" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1620342917142" />
+    <state width="1750" height="178" key="GridCell.Tab.0.center/0.25.1792.1002@0.25.1792.1002" timestamp="1620335539920" />
+    <state width="2966" height="489" key="GridCell.Tab.0.center/686.-1667.3008.1667/0.25.1792.1002@686.-1667.3008.1667" timestamp="1620228228688" />
+    <state width="2966" height="721" key="GridCell.Tab.0.center/686.-1692.3008.1692/0.0.1792.1120@686.-1692.3008.1692" timestamp="1620343231599" />
+    <state width="2966" height="542" key="GridCell.Tab.0.center/686.-1692.3008.1692/0.25.1792.1095@686.-1692.3008.1692" timestamp="1620318227977" />
+    <state width="2966" height="721" key="GridCell.Tab.0.left" timestamp="1620343231598">
+      <screen x="686" y="-1692" width="3008" height="1692" />
+    </state>
+    <state width="1750" height="417" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1620342917142" />
+    <state width="1750" height="178" key="GridCell.Tab.0.left/0.25.1792.1002@0.25.1792.1002" timestamp="1620335539919" />
+    <state width="2966" height="489" key="GridCell.Tab.0.left/686.-1667.3008.1667/0.25.1792.1002@686.-1667.3008.1667" timestamp="1620228228688" />
+    <state width="2966" height="721" key="GridCell.Tab.0.left/686.-1692.3008.1692/0.0.1792.1120@686.-1692.3008.1692" timestamp="1620343231598" />
+    <state width="2966" height="542" key="GridCell.Tab.0.left/686.-1692.3008.1692/0.25.1792.1095@686.-1692.3008.1692" timestamp="1620318227977" />
+    <state width="2966" height="721" key="GridCell.Tab.0.right" timestamp="1620343231600">
+      <screen x="686" y="-1692" width="3008" height="1692" />
+    </state>
+    <state width="1750" height="417" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1620342917143" />
+    <state width="1750" height="178" key="GridCell.Tab.0.right/0.25.1792.1002@0.25.1792.1002" timestamp="1620335539920" />
+    <state width="2966" height="489" key="GridCell.Tab.0.right/686.-1667.3008.1667/0.25.1792.1002@686.-1667.3008.1667" timestamp="1620228228688" />
+    <state width="2966" height="721" key="GridCell.Tab.0.right/686.-1692.3008.1692/0.0.1792.1120@686.-1692.3008.1692" timestamp="1620343231600" />
+    <state width="2966" height="542" key="GridCell.Tab.0.right/686.-1692.3008.1692/0.25.1792.1095@686.-1692.3008.1692" timestamp="1620318227978" />
+    <state x="686" y="-1641" width="3008" height="1574" key="SettingsEditor" timestamp="1620344070478">
+      <screen x="686" y="-1667" width="3008" height="1574" />
+    </state>
+    <state x="686" y="-1641" key="SettingsEditor/686.-1667.3008.1574/0.25.1792.1095@686.-1667.3008.1574" timestamp="1620344070478" />
+    <state x="686" y="-1664" width="3008" height="1574" key="SettingsEditor/686.-1692.3008.1692/0.0.1792.1120@686.-1692.3008.1692" timestamp="1620343967085" />
+    <state x="686" y="-1664" width="1792" height="1005" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620184495965">
+      <screen x="686" y="-1667" width="3008" height="1667" />
+    </state>
+    <state x="686" y="-1664" width="1792" height="1005" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/686.-1667.3008.1667/0.25.1792.1005@686.-1667.3008.1667" timestamp="1620184495965" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1620331215818">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1620331215818" />
+  </component>
+</project>
